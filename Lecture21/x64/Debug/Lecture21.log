@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\zakwa\New folder\Project\main.cpp(29,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(98,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(138,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(280,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(316,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(354,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(367,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zakwa\New folder\Project\main.cpp(393,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lecture21.vcxproj -> C:\Users\zakwa\New folder\Project\x64\Debug\Lecture21.exe
