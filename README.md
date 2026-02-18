@@ -1,9 +1,9 @@
-##Line of Action – C++ Implementation with AI
+## Line of Action – C++ Implementation with AI
 
-#Display Recommendation
+# Display Recommendation
 ⚠️ For best experience, use a larger terminal window.
 
-#Overview
+# Overview
 This project is a complete console-based implementation of the board game Line of Action, written in C++.
 
 **The game supports:**
@@ -24,7 +24,7 @@ The bot uses heuristic-based decision making to evaluate and select optimal move
 - The objective is to connect all of your pieces into a single connected group.
 - A player wins when all their pieces form one connected component.
 
-#Features
+# Features
 
 **Full Rule Enforcement**
 - Validates horizontal, vertical, and diagonal moves.
@@ -53,7 +53,7 @@ The bot uses heuristic-based decision making to evaluate and select optimal move
 - Tournament mode with score tracking
 - Multiple rounds of play
 
-#How to Compile:
+# How to Compile:
 
 Using g++:
 g++ main.cpp -o lineofaction
